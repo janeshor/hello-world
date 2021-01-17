@@ -1,2 +1,2 @@
 # hello-world
-Some text and some description.
+Some text and some descriptions.
